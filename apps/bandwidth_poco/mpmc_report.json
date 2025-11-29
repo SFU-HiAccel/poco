@@ -1,0 +1,15 @@
+[
+  {
+    "datatype": "ap_uint<256>",
+    "length": 32,
+    "partition": "block",
+    "num_parts": 1,
+    "memcore": "tapa::bram",
+    "blocks": 4,
+    "pages": 8,
+    "name": "sb",
+    "file": "/localhdd/arb26/workspace/brahmalocal/brahma/apps/bandwidth_poco/src/bandwidth_poco.cpp",
+    "line": 153,
+    "column": 9
+  }
+]

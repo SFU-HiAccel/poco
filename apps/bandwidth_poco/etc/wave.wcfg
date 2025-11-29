@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="/localhdd/arb26/workspace/builds/brahma/bandwidth/max/p1_xctr4/vivado/tapa-fast-cosim.sim/sim_1/behav/xsim/wave.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="test" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="4,529.709 ns"></ZoomStartTime>
+      <ZoomEndTime time="4,603.460 ns"></ZoomEndTime>
+      <Cursor1Time time="4,560.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="215"></NameColumnWidth>
+      <ValueColumnWidth column_width="140"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="34" />
+   <wvobject type="group" fp_name="group201">
+      <obj_property name="label">SBRX</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+      <wvobject type="group" fp_name="group382">
+         <obj_property name="label">0</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+      </wvobject>
+      <wvobject type="group" fp_name="group380">
+         <obj_property name="label">1</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+      </wvobject>
+      <wvobject type="group" fp_name="group567">
+         <obj_property name="label">2</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+      </wvobject>
+      <wvobject type="group" fp_name="group558">
+         <obj_property name="label">3</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject type="group" fp_name="group202">
+      <obj_property name="label">SBTX</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+      <wvobject type="group" fp_name="group383">
+         <obj_property name="label">0</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+      </wvobject>
+      <wvobject type="group" fp_name="group381">
+         <obj_property name="label">1</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+      </wvobject>
+      <wvobject type="group" fp_name="group540">
+         <obj_property name="label">2</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+      </wvobject>
+      <wvobject type="group" fp_name="group549">
+         <obj_property name="label">3</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject type="group" fp_name="group434">
+      <obj_property name="label">RQR</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject type="group" fp_name="group333">
+         <obj_property name="label">rqr_to_drp_free</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+      </wvobject>
+      <wvobject type="group" fp_name="group342">
+         <obj_property name="label">rqr_to_drp_grab</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+      </wvobject>
+      <wvobject type="group" fp_name="group398">
+         <obj_property name="label">rqr_to_drp_write0</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+      </wvobject>
+      <wvobject type="group" fp_name="group407">
+         <obj_property name="label">rqr_to_drp_write1</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+      </wvobject>
+      <wvobject type="group" fp_name="group460">
+         <obj_property name="label">rqr_to_drp_read_1</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+      </wvobject>
+      <wvobject type="group" fp_name="group451">
+         <obj_property name="label">rqr_to_drp_read_2</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+      </wvobject>
+      <wvobject type="group" fp_name="group442">
+         <obj_property name="label">rqr_to_drp_read_3</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject type="group" fp_name="group435">
+      <obj_property name="label">DRP</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/drp_0/drp_to_rsg_write_0_write">
+         <obj_property name="ElementShortName">drp_to_rsg_write_0_write</obj_property>
+         <obj_property name="ObjectShortName">drp_to_rsg_write_0_write</obj_property>
+      </wvobject>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/drp_0/drp_to_rsg_write_1_write">
+         <obj_property name="ElementShortName">drp_to_rsg_write_1_write</obj_property>
+         <obj_property name="ObjectShortName">drp_to_rsg_write_1_write</obj_property>
+      </wvobject>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/drp_0/drp_to_rsg_write_2_write">
+         <obj_property name="ElementShortName">drp_to_rsg_write_2_write</obj_property>
+         <obj_property name="ObjectShortName">drp_to_rsg_write_2_write</obj_property>
+      </wvobject>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/drp_0/drp_to_rsg_write_3_write">
+         <obj_property name="ElementShortName">drp_to_rsg_write_3_write</obj_property>
+         <obj_property name="ObjectShortName">drp_to_rsg_write_3_write</obj_property>
+      </wvobject>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/drp_0/drp_to_ohd_write_0_write">
+         <obj_property name="ElementShortName">drp_to_ohd_write_0_write</obj_property>
+         <obj_property name="ObjectShortName">drp_to_ohd_write_0_write</obj_property>
+      </wvobject>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/drp_0/drp_to_ohd_write_1_write">
+         <obj_property name="ElementShortName">drp_to_ohd_write_1_write</obj_property>
+         <obj_property name="ObjectShortName">drp_to_ohd_write_1_write</obj_property>
+      </wvobject>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/drp_0/drp_to_ohd_write_2_write">
+         <obj_property name="ElementShortName">drp_to_ohd_write_2_write</obj_property>
+         <obj_property name="ObjectShortName">drp_to_ohd_write_2_write</obj_property>
+      </wvobject>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/drp_0/drp_to_ohd_write_3_write">
+         <obj_property name="ElementShortName">drp_to_ohd_write_3_write</obj_property>
+         <obj_property name="ObjectShortName">drp_to_ohd_write_3_write</obj_property>
+      </wvobject>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/drp_0/drp_to_rsg_read_0_write">
+         <obj_property name="ElementShortName">drp_to_rsg_read_0_write</obj_property>
+         <obj_property name="ObjectShortName">drp_to_rsg_read_0_write</obj_property>
+      </wvobject>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/drp_0/drp_to_rsg_read_1_write">
+         <obj_property name="ElementShortName">drp_to_rsg_read_1_write</obj_property>
+         <obj_property name="ObjectShortName">drp_to_rsg_read_1_write</obj_property>
+      </wvobject>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/drp_0/drp_to_rsg_read_2_write">
+         <obj_property name="ElementShortName">drp_to_rsg_read_2_write</obj_property>
+         <obj_property name="ObjectShortName">drp_to_rsg_read_2_write</obj_property>
+      </wvobject>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/drp_0/drp_to_rsg_read_3_write">
+         <obj_property name="ElementShortName">drp_to_rsg_read_3_write</obj_property>
+         <obj_property name="ObjectShortName">drp_to_rsg_read_3_write</obj_property>
+      </wvobject>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/drp_0/drp_to_ihd_read_0_write">
+         <obj_property name="ElementShortName">drp_to_ihd_read_0_write</obj_property>
+         <obj_property name="ObjectShortName">drp_to_ihd_read_0_write</obj_property>
+      </wvobject>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/drp_0/drp_to_ihd_read_1_write">
+         <obj_property name="ElementShortName">drp_to_ihd_read_1_write</obj_property>
+         <obj_property name="ObjectShortName">drp_to_ihd_read_1_write</obj_property>
+      </wvobject>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/drp_0/drp_to_ihd_read_2_write">
+         <obj_property name="ElementShortName">drp_to_ihd_read_2_write</obj_property>
+         <obj_property name="ObjectShortName">drp_to_ihd_read_2_write</obj_property>
+      </wvobject>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/drp_0/drp_to_ihd_read_3_write">
+         <obj_property name="ElementShortName">drp_to_ihd_read_3_write</obj_property>
+         <obj_property name="ObjectShortName">drp_to_ihd_read_3_write</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject type="group" fp_name="group438">
+      <obj_property name="label">PGM</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject type="group" fp_name="group389">
+         <obj_property name="label">pgm_to_drp_sts</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+         <obj_property name="isExpanded"></obj_property>
+      </wvobject>
+      <wvobject type="group" fp_name="group484">
+         <obj_property name="label">crp_to_pgm_free</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+      </wvobject>
+      <wvobject type="group" fp_name="group493">
+         <obj_property name="label">crp_to_pgm_grab</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+      </wvobject>
+      <wvobject type="group" fp_name="group502">
+         <obj_property name="label">pgm_to_crp_sts</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject type="group" fp_name="group437">
+      <obj_property name="label">IHD</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/ihd_0/ihd_to_rao_read_write">
+         <obj_property name="ElementShortName">ihd_to_rao_read_write</obj_property>
+         <obj_property name="ObjectShortName">ihd_to_rao_read_write</obj_property>
+      </wvobject>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/ihd_0/backend_pages_sink_write">
+         <obj_property name="ElementShortName">backend_pages_sink_write</obj_property>
+         <obj_property name="ObjectShortName">backend_pages_sink_write</obj_property>
+      </wvobject>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/ihd_1/ihd_to_rao_read_write">
+         <obj_property name="ElementShortName">ihd_to_rao_read_write</obj_property>
+         <obj_property name="ObjectShortName">ihd_to_rao_read_write</obj_property>
+      </wvobject>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/ihd_1/backend_pages_sink_write">
+         <obj_property name="ElementShortName">backend_pages_sink_write</obj_property>
+         <obj_property name="ObjectShortName">backend_pages_sink_write</obj_property>
+      </wvobject>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/ihd_2/ihd_to_rao_read_write">
+         <obj_property name="ElementShortName">ihd_to_rao_read_write</obj_property>
+         <obj_property name="ObjectShortName">ihd_to_rao_read_write</obj_property>
+      </wvobject>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/ihd_2/backend_pages_sink_write">
+         <obj_property name="ElementShortName">backend_pages_sink_write</obj_property>
+         <obj_property name="ObjectShortName">backend_pages_sink_write</obj_property>
+      </wvobject>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/ihd_3/ihd_to_rao_read_write">
+         <obj_property name="ElementShortName">ihd_to_rao_read_write</obj_property>
+         <obj_property name="ObjectShortName">ihd_to_rao_read_write</obj_property>
+      </wvobject>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/ihd_3/backend_pages_sink_write">
+         <obj_property name="ElementShortName">backend_pages_sink_write</obj_property>
+         <obj_property name="ObjectShortName">backend_pages_sink_write</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject type="group" fp_name="group436">
+      <obj_property name="label">OHD</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/ohd_0/ohd_to_wao_write_write">
+         <obj_property name="ElementShortName">ohd_to_wao_write_write</obj_property>
+         <obj_property name="ObjectShortName">ohd_to_wao_write_write</obj_property>
+      </wvobject>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/ohd_0/backend_pages_sink_write">
+         <obj_property name="ElementShortName">backend_pages_sink_write</obj_property>
+         <obj_property name="ObjectShortName">backend_pages_sink_write</obj_property>
+      </wvobject>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/ohd_1/ohd_to_wao_write_write">
+         <obj_property name="ElementShortName">ohd_to_wao_write_write</obj_property>
+         <obj_property name="ObjectShortName">ohd_to_wao_write_write</obj_property>
+      </wvobject>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/ohd_1/backend_pages_sink_write">
+         <obj_property name="ElementShortName">backend_pages_sink_write</obj_property>
+         <obj_property name="ObjectShortName">backend_pages_sink_write</obj_property>
+      </wvobject>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/ohd_2/ohd_to_wao_write_write">
+         <obj_property name="ElementShortName">ohd_to_wao_write_write</obj_property>
+         <obj_property name="ObjectShortName">ohd_to_wao_write_write</obj_property>
+      </wvobject>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/ohd_2/backend_pages_sink_write">
+         <obj_property name="ElementShortName">backend_pages_sink_write</obj_property>
+         <obj_property name="ObjectShortName">backend_pages_sink_write</obj_property>
+      </wvobject>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/ohd_3/ohd_to_wao_write_write">
+         <obj_property name="ElementShortName">ohd_to_wao_write_write</obj_property>
+         <obj_property name="ObjectShortName">ohd_to_wao_write_write</obj_property>
+      </wvobject>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/ohd_3/backend_pages_sink_write">
+         <obj_property name="ElementShortName">backend_pages_sink_write</obj_property>
+         <obj_property name="ObjectShortName">backend_pages_sink_write</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject type="group" fp_name="group457">
+      <obj_property name="label">RSG</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/rsg_0/btxqs_0_write">
+         <obj_property name="ElementShortName">btxqs_0_write</obj_property>
+         <obj_property name="ObjectShortName">btxqs_0_write</obj_property>
+      </wvobject>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/rsg_0/btxqs_1_write">
+         <obj_property name="ElementShortName">btxqs_1_write</obj_property>
+         <obj_property name="ObjectShortName">btxqs_1_write</obj_property>
+      </wvobject>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/rsg_0/btxqs_2_write">
+         <obj_property name="ElementShortName">btxqs_2_write</obj_property>
+         <obj_property name="ObjectShortName">btxqs_2_write</obj_property>
+      </wvobject>
+      <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/rsg_0/btxqs_3_write">
+         <obj_property name="ElementShortName">btxqs_3_write</obj_property>
+         <obj_property name="ObjectShortName">btxqs_3_write</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject type="group" fp_name="group264">
+      <obj_property name="label">BackendPages</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject type="group" fp_name="group263">
+         <obj_property name="label">MemCores</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+         <obj_property name="isExpanded"></obj_property>
+      </wvobject>
+      <wvobject type="group" fp_name="group261">
+         <obj_property name="label">OcpdFIFO</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+         <obj_property name="isExpanded"></obj_property>
+      </wvobject>
+      <wvobject type="group" fp_name="group262">
+         <obj_property name="label">FreeFIFO</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+         <obj_property name="isExpanded"></obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject type="group" fp_name="group221">
+      <obj_property name="label">Debug</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject type="group" fp_name="group449">
+      <obj_property name="label">drp_to_rsg_write_1</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject type="group" fp_name="group458">
+      <obj_property name="label">rqr_to_drp_write_1</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/task1_0/sb_rx_0_read">
+      <obj_property name="ElementShortName">sb_rx_0_read</obj_property>
+      <obj_property name="ObjectShortName">sb_rx_0_read</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/task1_0/sb_tx_0_write">
+      <obj_property name="ElementShortName">sb_tx_0_write</obj_property>
+      <obj_property name="ObjectShortName">sb_tx_0_write</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/task2_0/sb_rx_0_read">
+      <obj_property name="ElementShortName">sb_rx_0_read</obj_property>
+      <obj_property name="ObjectShortName">sb_rx_0_read</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/task2_0/sb_tx_0_write">
+      <obj_property name="ElementShortName">sb_tx_0_write</obj_property>
+      <obj_property name="ObjectShortName">sb_tx_0_write</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/drp_0/rqr_to_drp_read_0_read">
+      <obj_property name="ElementShortName">rqr_to_drp_read_0_read</obj_property>
+      <obj_property name="ObjectShortName">rqr_to_drp_read_0_read</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/drp_0/rqr_to_drp_read_1_read">
+      <obj_property name="ElementShortName">rqr_to_drp_read_1_read</obj_property>
+      <obj_property name="ObjectShortName">rqr_to_drp_read_1_read</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/drp_0/rqr_to_drp_read_2_read">
+      <obj_property name="ElementShortName">rqr_to_drp_read_2_read</obj_property>
+      <obj_property name="ObjectShortName">rqr_to_drp_read_2_read</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/drp_0/rqr_to_drp_read_3_read">
+      <obj_property name="ElementShortName">rqr_to_drp_read_3_read</obj_property>
+      <obj_property name="ObjectShortName">rqr_to_drp_read_3_read</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/drp_0/rqr_to_drp_write_0_read">
+      <obj_property name="ElementShortName">rqr_to_drp_write_0_read</obj_property>
+      <obj_property name="ObjectShortName">rqr_to_drp_write_0_read</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/drp_0/rqr_to_drp_write_1_read">
+      <obj_property name="ElementShortName">rqr_to_drp_write_1_read</obj_property>
+      <obj_property name="ObjectShortName">rqr_to_drp_write_1_read</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/drp_0/rqr_to_drp_write_2_read">
+      <obj_property name="ElementShortName">rqr_to_drp_write_2_read</obj_property>
+      <obj_property name="ObjectShortName">rqr_to_drp_write_2_read</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/drp_0/rqr_to_drp_write_3_read">
+      <obj_property name="ElementShortName">rqr_to_drp_write_3_read</obj_property>
+      <obj_property name="ObjectShortName">rqr_to_drp_write_3_read</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/ihd_1/ihd_to_rao_read_write">
+      <obj_property name="ElementShortName">ihd_to_rao_read_write</obj_property>
+      <obj_property name="ObjectShortName">ihd_to_rao_read_write</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/task1_0/sb_tx_1_write">
+      <obj_property name="ElementShortName">sb_tx_1_write</obj_property>
+      <obj_property name="ObjectShortName">sb_tx_1_write</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/task1_0/sb_tx_0_write">
+      <obj_property name="ElementShortName">sb_tx_0_write</obj_property>
+      <obj_property name="ObjectShortName">sb_tx_0_write</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/task1_0/sb_rx_1_read">
+      <obj_property name="ElementShortName">sb_rx_1_read</obj_property>
+      <obj_property name="ObjectShortName">sb_rx_1_read</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/task1_0/sb_rx_0_read">
+      <obj_property name="ElementShortName">sb_rx_0_read</obj_property>
+      <obj_property name="ObjectShortName">sb_rx_0_read</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/task1_0/values_s_read">
+      <obj_property name="ElementShortName">values_s_read</obj_property>
+      <obj_property name="ObjectShortName">values_s_read</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/task1_0/grp_task1_Pipeline_T1_WXCTR_LOOP_fu_232/ap_block_pp0_stage1_11001">
+      <obj_property name="ElementShortName">ap_block_pp0_stage1_11001</obj_property>
+      <obj_property name="ObjectShortName">ap_block_pp0_stage1_11001</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/test/dut/bandwidth_inner_0/task1_0/grp_task1_Pipeline_T1_WXCTR_LOOP_fu_232/icmp_ln139_reg_146">
+      <obj_property name="ElementShortName">icmp_ln139_reg_146[0:0]</obj_property>
+      <obj_property name="ObjectShortName">icmp_ln139_reg_146[0:0]</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/task1_0/grp_task1_Pipeline_T1_WXCTR_LOOP_fu_232/ap_CS_fsm_pp0_stage0">
+      <obj_property name="ElementShortName">ap_CS_fsm_pp0_stage0</obj_property>
+      <obj_property name="ObjectShortName">ap_CS_fsm_pp0_stage0</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/test/dut/bandwidth_inner_0/task1_0/grp_task1_Pipeline_T1_WXCTR_LOOP_fu_232/ap_block_state2_pp0_stage1_iter0">
+      <obj_property name="ElementShortName">ap_block_state2_pp0_stage1_iter0</obj_property>
+      <obj_property name="ObjectShortName">ap_block_state2_pp0_stage1_iter0</obj_property>
+   </wvobject>
+</wave_config>
